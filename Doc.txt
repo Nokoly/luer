@@ -3,6 +3,9 @@ fire blazes
 trees burn to ash
 yet new life bursts
 
+<<<<<<< HEAD
 fjfvnndf
 
 asddsdasdasd
+=======
+>>>>>>> 269f1fc17f4e49d9f9976e8829e7bd0d75dc89f3
